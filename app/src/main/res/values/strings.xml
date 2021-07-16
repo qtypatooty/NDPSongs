@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NDPSongs</string>
+    <string-array name="spinnerStars">
+        <item>SHOW ALL SONGS WITH 1 STAR</item>
+        <item>SHOW ALL SONGS WITH 2 STARS</item>
+        <item>SHOW ALL SONGS WITH 3 STARS</item>
+        <item>SHOW ALL SONGS WITH 4 STARS</item>
+        <item>SHOW ALL SONGS WITH 5 STARS</item>
+    </string-array>
+</resources>
